@@ -62,10 +62,6 @@
 		1EA42DFA26A85D7D004CC618 /* BADBGFindMyInstallationHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA42DF726A84C71004CC618 /* BADBGFindMyInstallationHelper.m */; };
 		1EA42DFB26A85DF9004CC618 /* BADBGFindMyInstallationHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EA42DF926A84C99004CC618 /* BADBGFindMyInstallationHelper.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		1EA42E0426A9A736004CC618 /* FindMyInstallationHelperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA42E0226A9A716004CC618 /* FindMyInstallationHelperTests.m */; };
-		1EC9657127AD7879007D66AD /* BALocalCampaignsGlobalCappings.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EC9656F27AD7879007D66AD /* BALocalCampaignsGlobalCappings.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		1EC9657227AD7879007D66AD /* BALocalCampaignsGlobalCappings.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EC9657027AD7879007D66AD /* BALocalCampaignsGlobalCappings.m */; };
-		1EF1974427673BBE00386DF0 /* BAInjectionRegistrar.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EF1974227673BBE00386DF0 /* BAInjectionRegistrar.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		1EF1974527673BBE00386DF0 /* BAInjectionRegistrar.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1974327673BBE00386DF0 /* BAInjectionRegistrar.m */; };
 		1EBDBC5F27146B8B006DC662 /* BAMetric.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EF8BA98271462D90063E117 /* BAMetric.m */; };
 		1EBDBC6027146C97006DC662 /* BAMetric.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EF8BA9A271462F80063E117 /* BAMetric.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		1EBDBC6327157A3A006DC662 /* BACounter.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EBDBC6127157A3A006DC662 /* BACounter.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -80,6 +76,8 @@
 		1EBDBC8427188D40006DC662 /* metricTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDBC8327188D40006DC662 /* metricTests.m */; };
 		1EBDBC86271D9936006DC662 /* metricManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDBC85271D9936006DC662 /* metricManagerTests.m */; };
 		1EC803AB27D2477E00CCE8E5 /* localCampaignsManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC803AA27D2477E00CCE8E5 /* localCampaignsManagerTests.swift */; };
+		1EC9657127AD7879007D66AD /* BALocalCampaignsGlobalCappings.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EC9656F27AD7879007D66AD /* BALocalCampaignsGlobalCappings.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		1EC9657227AD7879007D66AD /* BALocalCampaignsGlobalCappings.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EC9657027AD7879007D66AD /* BALocalCampaignsGlobalCappings.m */; };
 		1EF1974427673BBE00386DF0 /* BAInjectionRegistrar.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EF1974227673BBE00386DF0 /* BAInjectionRegistrar.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		1EF1974527673BBE00386DF0 /* BAInjectionRegistrar.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1974327673BBE00386DF0 /* BAInjectionRegistrar.m */; };
 		5105747D21358C2A00789F86 /* batchLispTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5105747C21358C2A00789F86 /* batchLispTests.swift */; };
@@ -810,10 +808,6 @@
 		1EA42DF726A84C71004CC618 /* BADBGFindMyInstallationHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BADBGFindMyInstallationHelper.m; sourceTree = "<group>"; };
 		1EA42DF926A84C99004CC618 /* BADBGFindMyInstallationHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BADBGFindMyInstallationHelper.h; sourceTree = "<group>"; };
 		1EA42E0226A9A716004CC618 /* FindMyInstallationHelperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FindMyInstallationHelperTests.m; sourceTree = "<group>"; };
-		1EC9656F27AD7879007D66AD /* BALocalCampaignsGlobalCappings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BALocalCampaignsGlobalCappings.h; sourceTree = "<group>"; };
-		1EC9657027AD7879007D66AD /* BALocalCampaignsGlobalCappings.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BALocalCampaignsGlobalCappings.m; sourceTree = "<group>"; };
-		1EF1974227673BBE00386DF0 /* BAInjectionRegistrar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BAInjectionRegistrar.h; sourceTree = "<group>"; };
-		1EF1974327673BBE00386DF0 /* BAInjectionRegistrar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BAInjectionRegistrar.m; sourceTree = "<group>"; };
 		1EBDBC6127157A3A006DC662 /* BACounter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BACounter.h; sourceTree = "<group>"; };
 		1EBDBC6227157A3A006DC662 /* BACounter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BACounter.m; sourceTree = "<group>"; };
 		1EBDBC652715B1B5006DC662 /* BAMetricProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BAMetricProtocol.h; sourceTree = "<group>"; };
@@ -826,6 +820,8 @@
 		1EBDBC8327188D40006DC662 /* metricTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = metricTests.m; sourceTree = "<group>"; };
 		1EBDBC85271D9936006DC662 /* metricManagerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = metricManagerTests.m; sourceTree = "<group>"; };
 		1EC803AA27D2477E00CCE8E5 /* localCampaignsManagerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = localCampaignsManagerTests.swift; sourceTree = "<group>"; };
+		1EC9656F27AD7879007D66AD /* BALocalCampaignsGlobalCappings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BALocalCampaignsGlobalCappings.h; sourceTree = "<group>"; };
+		1EC9657027AD7879007D66AD /* BALocalCampaignsGlobalCappings.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BALocalCampaignsGlobalCappings.m; sourceTree = "<group>"; };
 		1EF1974227673BBE00386DF0 /* BAInjectionRegistrar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BAInjectionRegistrar.h; sourceTree = "<group>"; };
 		1EF1974327673BBE00386DF0 /* BAInjectionRegistrar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BAInjectionRegistrar.m; sourceTree = "<group>"; };
 		1EF8BA98271462D90063E117 /* BAMetric.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BAMetric.m; sourceTree = "<group>"; };
