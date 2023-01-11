@@ -1,3 +1,15 @@
+## Important !
+
+The Batch SDK framework is used by the iOS apps.
+
+It was forked to :
+
+- fix a bug with distribution using Carthage
+
+**For any inquires ping the iOS team.**
+
+-----
+
 <img src="https://static.batch.com/documentation/Readmes/logo_batch_full_178@2x.png" srcset="https://static.batch.com/documentation/Readmes/logo_batch_full_178.png 1x" width="178" height="80" alt="Batch Logo" />
 
 # Batch iOS SDK
